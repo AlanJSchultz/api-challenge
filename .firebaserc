@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "ajs-api-challenge",
+    "AJS-firebase-example": "ajs-api-challenge"
+  }
+}
